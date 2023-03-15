@@ -1,6 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=D5C1FF&width=535&lines=Hello+World!😊+)](https://git.io/typing-svg)
-- My name is Olena 
-- I'm a Front-end Development student🐱‍💻
+- 😄 My name is Olena 
+- 💻 I'm a Front-end Development student🐱‍💻
+- 💼 Linkedin: https://www.linkedin.com/in/olena-yastrebtsova/
+- ✉️ Contact-me: uaalena202@gmail.com
+
+<div style="display: inline_block"><br>
+  
+  
+  <img align="center" alt="Nah-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Nah-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="Nah-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Nah-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Nah-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nah-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Nah-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" alt="Nah-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  
+  
+  
+   </div>
 
 <!---
 yastrb/yastrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
