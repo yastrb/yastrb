@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=D5C1FF&width=535&lines=Hello+World!😊+)](https://git.io/typing-svg)
 - 😄 My name is Olena 
-- 💻 I'm a Front-end Development student🐱‍💻
+- 💻 I'm a Front-end Developer
 - 💼 Linkedin: https://www.linkedin.com/in/olena-yastrebtsova/
 - ✉️ Contact-me: uaalena202@gmail.com
 
